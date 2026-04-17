@@ -123,7 +123,6 @@ This project demonstrates:
 * Driver telemetry analysis
 * Deployment on cloud (Streamlit Cloud / AWS)
 * Advanced deep learning models
-<img width="1379" height="823" alt="Screenshot 2026-04-17 223728" src="https://github.com/user-attachments/assets/751195dc-7c67-4a08-b355-463874b6e816" />
 
 ---
 
